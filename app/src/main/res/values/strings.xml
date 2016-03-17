@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Hacker News Reader</string>
+    <string name="title_activity_article">Your Article</string>
+</resources>
